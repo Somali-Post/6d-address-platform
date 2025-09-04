@@ -1,4 +1,4 @@
-// --- Global Variables & Element References ---
+// --- Global Variables & Data ---
 let map;
 let geocoder;
 let mapClickHandler = null;
